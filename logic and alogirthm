@@ -1,0 +1,6 @@
+1:Splitting the String into Words
+2.Checking for Words:Verify if there are any words in the string. If the list of words (words) is empty, return 0, indicating that there are no words in the string.
+3.Returning Length of Last Word:If there are words in the string, return the length of the last word by accessing the last element in the list of words (words[-1]) and finding its length using the len() function.
+
+Time Complexity: O(n)
+Space Complexity: O(k)
